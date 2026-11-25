@@ -1,0 +1,4 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: Pump.fun Sharpe Sprint — Cleanest Paper Bot Wins (u-jackxyz72-pump-fun-sharpe-sprint-cleanest-03e4f532).
+Entry: "Steady Scalper" — a clean-Sharpe paper bot for the pump.fun bonding-curve replay (agent-fun/replay/v2). Many small 0.08 SOL shots at young coins with honest early buy flow, tight stops (TP +20% / SL -10% / trailing stop), plus a second "survivor" regime for coins still climbing past 500 slots.
